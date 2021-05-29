@@ -1,4 +1,4 @@
-@import 'https://fonts.google.com/specimen/Farro';
+@import url('https://fonts.googleapis.com/css2?family=Farro:wght@300&display=swap');
 
 * {
   font-family: 'Farro', san-serif;
@@ -143,6 +143,7 @@ footer {
   float: right;
   width: 45%;
   padding-right: 10%;
+  padding-bottom: 6px;
 }
 
 .row::after {
